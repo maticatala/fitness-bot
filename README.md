@@ -121,4 +121,4 @@ Resumen del día:
 
 ## Related projects
 
-- [fitness-backend](https://github.com/matiasncatala/fitness-backend) — REST API that stores workout logs
+- [fitness-backend](https://github.com/maticatala/fitness-backend) — REST API that stores workout logs
